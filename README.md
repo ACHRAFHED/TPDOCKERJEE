@@ -35,4 +35,13 @@ you can spin everything up or tear it all down.
 <img width="758" alt="rendu1" src="https://github.com/ACHRAFHED/TPDOCKERJEE/assets/102471232/0e2cc8f4-51bf-4aef-9c9b-4480bc8e23dc">
 <img width="918" alt="rendu2" src="https://github.com/ACHRAFHED/TPDOCKERJEE/assets/102471232/b13aaabf-f625-491b-8f1e-e4b4b77a7537">
 
+## Angular Part
+### Docker
+<img width="770" alt="front " src="https://github.com/ACHRAFHED/TPDOCKERJEE/assets/102471232/f7d6f0b0-31de-4196-8f6e-ef039f846633">
+
+### Interface
+<img width="914" alt="customer1" src="https://github.com/ACHRAFHED/TPDOCKERJEE/assets/102471232/603b115c-909d-4eb6-abf0-5220930e6db7">
+<img width="925" alt="account1" src="https://github.com/ACHRAFHED/TPDOCKERJEE/assets/102471232/2750e0c4-c86b-4722-8ff8-f1a9eb3411e8">
+
+
 
